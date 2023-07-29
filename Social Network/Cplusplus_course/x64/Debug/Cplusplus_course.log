@@ -8,4 +8,5 @@
   Source.cpp
   Status.cpp
   Generating Code...
-  Cplusplus_course.vcxproj -> C:\Users\omesi\Desktop\Cplusplus_course\x64\Debug\Cplusplus_course.exe
+  LINK : C:\Users\omesi\Desktop\Git Repos\Social-Network-in-CPP\Social Network\x64\Debug\Cplusplus_course.exe not found or not built by the last incremental link; performing full link
+  Cplusplus_course.vcxproj -> C:\Users\omesi\Desktop\Git Repos\Social-Network-in-CPP\Social Network\x64\Debug\Cplusplus_course.exe
