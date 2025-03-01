@@ -9,7 +9,7 @@ A console-based social media application implemented in C++ with an emphasis on 
 ### User and Page Management
 - Add a new member
 - Add a fan page
-- Statuses can be messages/images/videos, when showing a status of a media type - an image app or a video players opens (see example below)
+- Statuses can be messages/images/videos, when showing a status of a media type - an image app or a video player opens (see example below)
 
 ### Status Updates
 - Add a status to a member
